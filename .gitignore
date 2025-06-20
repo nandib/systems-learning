@@ -1,0 +1,32 @@
+# macOS specific
+.DS_Store
+._*
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Trashes
+.Spotlight-V100
+
+# Compiled files
+*.pyc
+*.class
+*.o
+*.so
+
+# Editor swap files
+*~
+*.swp
+.sass-cache/
+
+# Python virtual environment
+venv/
+.venv/
+
+# Node.js modules
+node_modules/
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
