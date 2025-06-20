@@ -1,13 +1,15 @@
-# Distributed Systems + Rust Journey
+# Distributed Systems + Rust (with C) - Expanded Roadmap
 
-This repo is a structured, self-paced roadmap for mastering distributed systems, database internals, and systems programming using both Rust and C.
+Welcome! This repo is designed to help you master systems-level concepts — distributed systems, databases, OS, and networking — while building confidence in Rust and C.
 
-## Why This Exists
-- To bridge theory (papers, courses) with implementation (projects)
-- To grow both safe modern systems skills (Rust) and low-level expertise (C)
-- To support your journey into infra engineering, databases, or OSS systems
+## 🧠 Focus Areas
+- Distributed systems concepts and real-world architectures (Dynamo, Aurora, Raft, etc.)
+- Storage engines, replication, concurrency control, and fault tolerance
+- Low-level programming using Rust and C
+- Tooling: tracing, profiling, debugging
 
-## Advanced Paths
-- 🧠 [PingCAP: Awesome Database Learning](https://github.com/pingcap/awesome-database-learning)
-- 🧠 [Phil Eaton’s Blog](https://eatonphil.com/)
-- 🧠 [Reddit: Getting Started in DB Dev](https://www.reddit.com/r/databasedevelopment/comments/unj8d1/getting_started_with_database_development/)
+## 🐢 Pacing (with buffers)
+This roadmap assumes:
+- ~5 hours/week max effort
+- Buffer weeks every 3–4 learning weeks
+- Real-life adjustments (job, family) baked in

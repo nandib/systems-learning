@@ -1,7 +1,3 @@
-# Profiling Tools
-
-## Rust
-- `perf`, `cargo bench`, `criterion.rs`, `tokio-console`
-
-## C
-- `gprof`, `valgrind --tool=callgrind`, `perf`, `FlameGraph`
+## Profiling Rust and C
+- Rust: `perf`, `tokio-console`, `cargo-bench`
+- C: `valgrind`, `perf`, `FlameGraph`
