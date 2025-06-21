@@ -30,3 +30,7 @@ node_modules/
 .terraform/
 *.tfstate
 *.tfstate.*
+
+# IntellijIdea
+.idea/
+*.iml
